@@ -10,15 +10,15 @@ Examples for Numpy, Pandas, Matplotlib, Seaborn
 ---
 
 ## Statistics
-Descriptive Statistics
-Probality Distribution Function and Types of Distribution
+Descriptive Statistics  
+Probality Distribution Function and Types of Distribution  
 Inferential Stats and Hypothesis Testing
 
 ---
 
 ## Feature Engineering with Python
-Handling Missing Values
-SMOTE
+Handling Missing Values  
+SMOTE  
 Encoding
 
 ## Exploratory Data Analysis (EDA)
