@@ -24,8 +24,9 @@ Encoding
 ---
 
 ## Exploratory Data Analysis (EDA)
-Examples for EDA with large datasets
+Examples for EDA with large datasets with Python
 
 ---
 
-## SQL
+## SQL  
+Microsoft SQL Server
