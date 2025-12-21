@@ -30,4 +30,13 @@ Examples for EDA with large datasets with Python
 
 ## SQL  
 Microsoft SQL Server  
-Examples for most used Statements, Clauses, Functions, Operators
+Examples for most used Statements, Clauses, Operators  
+Basic Questions  
+Assigments  
+SQL Functions  
+Advanced SQL  
+Important SQL Questions  
+
+---
+
+## Power BI
