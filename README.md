@@ -39,4 +39,5 @@ Important SQL Questions
 
 ---
 
-## Power BI
+## Power BI  
+Data Visualization
