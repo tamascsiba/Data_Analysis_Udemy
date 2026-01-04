@@ -40,4 +40,5 @@ Important SQL Questions
 ---
 
 ## Power BI  
-Data Visualization
+Data Visualization  
+Power Query Editor
