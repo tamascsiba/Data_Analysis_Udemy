@@ -47,4 +47,11 @@ Projects
 
 ---
 
-## Microsoft Excel
+## Microsoft Excel  
+Functions  
+Num Functions  
+String Functions  
+Aggregation Functions  
+VLookUp  
+XLookUp  
+Pivot Table
