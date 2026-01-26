@@ -48,8 +48,8 @@ Projects
 ---
 
 ## Microsoft Excel  
-Functions
-Num Functions
+Functions  
+Num Functions  
 String Functions  
 Aggregation Functions  
 VLookUp  
